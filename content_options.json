@@ -1,0 +1,34 @@
+{
+    "homepage": {
+        "title": "Welcome to Pearl Bets",
+        "subtitle": "Place your bets and win big!",
+        "bannerImage": "banner.jpg",
+        "featuredPackages": [
+            {
+                "name": "Free Bet Tips",
+                "image": "slot_machine.jpg",
+                "description": "Try your luck with our exciting slot machine game!"
+            },
+            {
+                "name": "Weekly VIP Bet Tips",
+                "image": "roulette.jpg",
+                "description": "Experience the thrill of the roulette table and place your bets!"
+            },
+            {
+                "name": "Monthly VIP Bet Tips",
+                "image": "blackjack.jpg",
+                "description": "Test your skills and beat the dealer in our blackjack game!"
+            }
+        ]
+    },
+    "about": {
+        "title": "About Us",
+        "description": "Pearl Bets is a leading online gambling platform that offers a wide range of casino games and betting options. We strive to provide our users with a secure and enjoyable gaming experience."
+    },
+    "contact": {
+        "title": "Contact Us",
+        "email": "info@pearlbets.com",
+        "phone": "+1 123-456-7890",
+        "address": "123 Pearl Street, City, Country"
+    }
+}
